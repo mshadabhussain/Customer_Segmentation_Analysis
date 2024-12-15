@@ -1,2 +1,4 @@
 # Customer_Segmentation_Analysis
-Customer personality analysis helps a business to modify  its product based on its target customers from different types of customer segments. Finding the potential customers by analysing the behaviour of them is useful to understand the targeted customers.
+To address customers' reluctance to accept the campaigns and encourage higher participation rates, tailor the campaign offers specifically to the preferences and needs of customers in cluster 1.
+To address the challenges of low income and low spending among customers in Cluster 1,  develop affordable and cost-effective products that cater to the budget constraints you can also implement programs that provide incentives if they repeatedly buy a product more than once which will allow them, to continue engaging with the business even with their low income.
+Given that the majority of customers make purchases from the stores, it is crucial to maintain a strong presence and optimize the in-store experience while fewer customers make purchases online, it highlights the potential for growth in the e-commerce channel hence the business should focus on improving website usability.
